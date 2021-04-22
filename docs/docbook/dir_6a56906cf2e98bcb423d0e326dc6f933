@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_dir_6a56906cf2e98bcb423d0e326dc6f933" xml:lang="en-US">
+<title>C:/Users/ДОМ/Documents/NetBeansProjects/myAnimals/src/domain Directory Reference</title>
+<indexterm><primary>C:/Users/ДОМ/Documents/NetBeansProjects/myAnimals/src/domain Directory Reference</primary></indexterm>
+<simplesect>
+    <title>Files    </title>
+        <itemizedlist>
+            <listitem><para>file <link linkend="__animal_8java">Animal.java</link></para>
+</listitem>
+            <listitem><para>file <link linkend="__dog_8java">Dog.java</link></para>
+</listitem>
+            <listitem><para>file <link linkend="_watcher_8java">watcher.java</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+</section>
